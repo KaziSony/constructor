@@ -1,0 +1,6 @@
+G:\practice of c#\ConstructorApp\ConstructorApp\bin\Debug\ConstructorApp.exe.config
+G:\practice of c#\ConstructorApp\ConstructorApp\bin\Debug\ConstructorApp.exe
+G:\practice of c#\ConstructorApp\ConstructorApp\bin\Debug\ConstructorApp.pdb
+G:\practice of c#\ConstructorApp\ConstructorApp\obj\Debug\ConstructorApp.csprojResolveAssemblyReference.cache
+G:\practice of c#\ConstructorApp\ConstructorApp\obj\Debug\ConstructorApp.exe
+G:\practice of c#\ConstructorApp\ConstructorApp\obj\Debug\ConstructorApp.pdb
